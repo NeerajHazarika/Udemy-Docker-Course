@@ -1,4 +1,4 @@
 # Udemy-Docker-Course
 Udemy-Docker-Course
-- each file is either docker or docker-compose file, can be runned by renaming them accordingly
-- name of file is related to the concepts learned and services used
+- Folders are divided into Docker, Docker Compose, Docker Swarm based on task and concepts learned
+- Inside each of these folders there are files whose name is related to the concepts learned and services used
