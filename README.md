@@ -6,4 +6,4 @@ Udemy-Docker-Course
 # Chapters
 - Docker Compose - multi-container from multi-image build & run (called service)
 - Docker Swarm - multi-container management using multi-node/host environment (called swarm)
-- Docker Stack (+Secrets) - multi-services from multi-image build & run (called stack)
+- Docker Stack (+Secrets) - production multi-services from multi-image build & run (called stack)
